@@ -1,0 +1,51 @@
+Host Name: ชื่อโฮสต์
+OS Name: ชื่อระบบปฏิบัติการ
+OS Version: เวอร์ชันของระบบปฏิบัติการ
+OS Manufacturer: ผู้ผลิตระบบปฏิบัติการ
+OS Configuration: การกำหนดค่าระบบปฏิบัติการ
+OS Build Type: ประเภทของการสร้างระบบปฏิบัติการ
+Registered Owner: เจ้าของที่ลงทะเบียน
+Registered Organization: องค์กรที่ลงทะเบียน
+Product ID: รหัสผลิตภัณฑ์
+Original Install Date: วันที่ติดตั้งระบบครั้งแรก
+System Boot Time: เวลาเริ่มต้นระบบ
+
+
+System Manufacturer: ผู้ผลิตระบบ
+System Model: รุ่นของระบบ
+System Type: ประเภทของระบบ
+Processor(s): โปรเซสเซอร์
+~2936 Mhz
+BIOS Version: เวอร์ชันของ BIOS
+
+
+Windows Directory:โฟลเดอร์ Windows
+System Directory: โฟลเดอร์ระบบ
+
+
+Boot Device: อุปกรณ์บูต
+System Locale: ภูมิภาคของระบบ
+
+
+Input Locale: ภูมิภาคของการป้อนข้อมูล
+Time Zone: โซนเวลา
+Total Physical Memory: หน่วยความจำทางกายภาพทั้งหมด
+Available Physical Memory: หน่วยความจำทางกายภาพที่สามารถใช้งานได้
+Virtual Memory: Max Size: ขนาดสูงสุดของหน่วยความจำเสมือน
+Virtual Memory: Available:หน่วยความจำเสมือนที่สามารถใช้งานได้
+Virtual Memory: In Use:หน่วยความจำเสมือนที่กำลังใช้งาน
+Page File Location(s): ตำแหน่งไฟล์เพจ
+Domain: ตัวบอกเเทนชื่อ
+Logon Server: เซิร์ฟเวอร์เข้าสู่ระบบ
+Link: ลิงก์
+
+
+Local IPv6 Address: ที่อยู่ IPv6 ภายในเครือข่าย (ที่อยู่ IPv6 ภายใน)
+
+
+IPv4 Address: ที่อยู่ IPv4
+
+
+Subnet Mask: มาสก์ซับเน็ต= คือค่าที่ใช้ในระบบเครือข่าย IP เพื่อแบ่งเครือข่ายออกเป็นส่วนย่อย ๆ
+
+Default Gateway: เกตเวย์เริ่มต้น = การส่งข้อมูลไปอีกเครือค่ายหนึ่ง
